@@ -1,0 +1,7 @@
+datasets sentencepiece
+accelerate
+git+https://github.com/zphang/transformers@c3dc391
+bitsandbytes
+loralib
+git+https://github.com/huggingface/peft.git
+
